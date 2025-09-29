@@ -23,7 +23,7 @@ int main() {
 			std::cout << "Please enter a positive integer!" << '\n';	//User input validation
 			std::cin >> userNumber;
 		}
-		else {	//Check if number is a prime number
+		else {	//Check if number is a prime number, if prime add to vector
 			for (int i = 1; i <= userNumber; i++) {
 				if (isPrime(i)) {
 					primeNumbers.push_back(i);

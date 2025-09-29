@@ -54,6 +54,9 @@
     <ClCompile Include="IsPrimePart2Exercise.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ArraysEvenNumbersExercise.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="words.txt" />
