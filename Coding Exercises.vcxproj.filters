@@ -45,6 +45,9 @@
     <ClCompile Include="FileInputExercise.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="RockPaperScissorsExercise.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="words.txt" />
