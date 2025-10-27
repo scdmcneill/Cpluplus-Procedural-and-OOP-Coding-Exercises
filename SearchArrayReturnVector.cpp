@@ -30,10 +30,9 @@ int main() {
 
 	// output results
 	for (const auto& location : evenLocations) {
-		if (location.first == -1 && location.second == -1) {
+				if (location.first == -1 && location.second == -1) {
 			std::cout << "The array contained no even numbers.\n";
-		}
-		else {
+		} else {
 			std::cout << "Even number found at location: (" << location.first << ", " << location.second << ")\n";
 		}
 	}
