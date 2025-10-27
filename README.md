@@ -4,13 +4,13 @@ Each ".cpp" file represents an **individual coding problem**, and includes a hea
 
 ## Overview
 The goal of this repository is to demonstrate practical applications of:
-- ### **C++ fundamentals**:
+### **C++ fundamentals**:
 - variables, loops, functions, arrays, pointers
-- ### **Object-oriented principles**:
+### **Object-oriented principles**:
 - classes, encapsulation, inheritance, polymorphism
-- ### **Problem Solving Strategies**:
+### **Problem Solving Strategies**:
 - algorithm design, data structure, logical reasoning
-- ### **Code Organization and Readability**:
+### **Code Organization and Readability**:
 - modular design, inline documentation, consistent formating
 
 This serves as a **personal archive of C++ practice problems** and a way to track progress through the course
