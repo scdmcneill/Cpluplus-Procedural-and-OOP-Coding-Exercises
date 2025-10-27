@@ -57,6 +57,18 @@
     <ClCompile Include="ArraysEvenNumbersExercise.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="AdjacentMemory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FindPositionExercise.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Add2DimensionalArrays.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SearchArrayReturnVector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="words.txt" />
