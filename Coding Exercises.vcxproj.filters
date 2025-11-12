@@ -84,6 +84,9 @@
     <ClCompile Include="Palindrome Detector Exercise.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="lab10_5Exercise.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="words.txt" />
